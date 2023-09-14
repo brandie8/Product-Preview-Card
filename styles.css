@@ -1,0 +1,58 @@
+*{
+  font-style: Domine, san-serif; 
+
+}
+.container{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+ 
+span{
+    padding-left: 4px;
+}
+ 
+ 
+}
+
+.text{
+    padding-left: 10%;
+border:1px solid gray;
+padding: 5px;
+background-color: white;
+border-radius: 4px;
+}
+button{
+    color: white;
+    background-color: darkslategrey;
+    padding: 10px 50px;
+    border-radius: 8px;
+}
+
+
+.price{
+    display:flex;
+}
+.new{
+    font-size: 30px;
+    color:darkslategrey;
+    font-weight: bold;
+}
+.old{
+    font-size: 12px;
+    text-decoration: line-through;
+    padding: 3%;
+    color:dimgrey;
+}
+footer{
+    font-size: 10px;
+   
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+h1,p{
+    color:dimgrey;
+}
